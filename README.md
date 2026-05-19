@@ -6,6 +6,11 @@ Last updated: 19-05-2026
 
 In this notebook, we aim to provide a walk-through, interactive resource to introduce you to the neuroimaging tools that we (CNG lab) commonly use.
 
+Clone the tutorial material
+```bash
+git clone https://github.com/jihoonkim2100/tutorial.git
+```
+
 Run the command below
 ```bash
 xxx:/xxxx/tutorial > sh main.sh
