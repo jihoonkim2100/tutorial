@@ -16,26 +16,16 @@ Run the command below
 xxx:/xxxx/tutorial > sh main.sh
 ```
 
-Copy and paste the URLs
-```bash
-
-    Or copy and paste one of these URLs:
-        http://localhost:8888/lab?token=06d66f154304ce4d219d21b0f8c09d1ef1ef97a6bbf2177a
-        http://127.0.0.1:8888/lab?token=06d66f154304ce4d219d21b0f8c09d1ef1ef97a6bbf2177a
-```
-
 ## Getting started
 
-import library
-
-## Very basic python intro
+### Very basic python intro
 
 From variable to plotting
 
-## Brain visualization functions
+### Brain visualization functions
 
 Brainspace
 
-## HCP connectivity data
+### Gradient Analysis
 
-Gradient analysis
+Compute the gradient using HCP FC data
